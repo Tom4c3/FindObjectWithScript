@@ -1,7 +1,7 @@
 # FindObjectWithScript
 スクリプトを指定し，シーン内からそのスクリプトがアタッチされたオブジェクトを見つけるUnityエディタ拡張です．
 
-![FindObjectWithScript](https://user-images.githubusercontent.com/43462743/232017279-2438103d-23f8-4ef1-aaf7-db237ede881d.gif)
+![FindObject](https://user-images.githubusercontent.com/43462743/232024917-52e964ed-ee61-45ef-be77-86ba15cb3bba.gif)
 
 
 ## How to Use
